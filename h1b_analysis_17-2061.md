@@ -1,33 +1,17 @@
-# H-1B Lottery Analysis: FY2027 Application
+# H-1B Lottery Analysis: New Weighted Selection System (FY2026+)
 
-**Prepared for:** Senior Hardware RTL Design Engineer  
-**Date:** December 23, 2024  
 **SOC Code:** 17-2061 (Computer Hardware Engineers)  
-**Metro Area:** San Jose-Sunnyvale-Santa Clara, CA
+**Metro Area:** San Jose-Sunnyvale-Santa Clara, CA  
+**Last Updated:** December 2024
 
 ---
 
 ## Executive Summary
 
-Under the **new weighted H-1B selection process** (effective FY2026), your profile is exceptionally well-positioned. Your $205,000 base salary qualifies you for **Wage Level IV** (the highest tier), which grants you **16× the selection weight** compared to entry-level applicants. This dramatically improves your lottery odds from ~18% (old system) to an estimated **45-55%** under the new rules.
+Starting with the **FY2026 H-1B cap season** (registrations in March 2025), USCIS will implement a new **weighted selection process** that prioritizes higher-wage applicants. This guide analyzes how the new system affects Computer Hardware Engineers (SOC 17-2061) in the San Jose metro area.
 
----
-
-## Your Profile
-
-| Factor | Details |
-|--------|---------|
-| **Current Status** | F-1 STEM OPT (EAD expires Feb 12, 2026) |
-| **Target Lottery** | FY2027 (Registration: March/April 2026) |
-| **SOC Code** | 17-2061 (Computer Hardware Engineers) |
-| **Job Title** | Senior Hardware RTL Design Engineer |
-| **Employer** | Large GPU company (Santa Clara, CA) |
-| **Work Location** | Santa Clara, CA (ZIP: 95134) |
-| **Base Salary** | $205,000/year |
-| **Total Compensation** | ~$255,000/year (including bonuses) |
-| **Education** | MS in ECE (Computer Engineering) - UW Madison (Dec 2022) |
-| **Work Experience** | ~5.5 years total (India: 3.5 years + US: 2+ years) |
-| **Specialization** | Computer Architecture, GPU Architecture, RTL Design, Power-Efficient Systems |
+**Key Takeaway:** Applicants at **Wage Level IV** receive **8× the selection probability** compared to Level I applicants.  
+Again this is my high level understanding & now an immigartion advice.
 
 ---
 
@@ -44,203 +28,219 @@ The new rule replaces the previous random lottery with a **wage-level weighted s
 | Level II | 34th | 4 tickets | Moderate priority |
 | Level I | 17th (Entry) | 2 tickets | Baseline |
 
-### Key Insight
+### What This Means
 
-A Level IV applicant has **8× the probability** of being selected compared to a Level I applicant.
+- A Level IV applicant has **8× the probability** of selection vs. Level I
+- A Level III applicant has **4× the probability** of selection vs. Level I
+- A Level II applicant has **2× the probability** of selection vs. Level I
 
 ---
 
-## Prevailing Wage Analysis: SOC 17-2061 (Computer Hardware Engineers)
+## Prevailing Wage Levels: SOC 17-2061 (Computer Hardware Engineers)
 
 ### San Jose-Sunnyvale-Santa Clara Metropolitan Area
 
-For Computer Hardware Engineers (17-2061) in the San Jose metro area, the DOL prevailing wage levels are approximately:
+For Computer Hardware Engineers (17-2061) in the San Jose metro area, the estimated DOL prevailing wage levels are:
 
-| Wage Level | Percentile | Estimated Annual Salary | Your Position |
-|------------|------------|------------------------|---------------|
-| **Level I** | 17th | ~$138,000 - $145,000 | ❌ Above |
-| **Level II** | 34th | ~$160,000 - $170,000 | ❌ Above |
-| **Level III** | 50th | ~$180,000 - $190,000 | ❌ Above |
-| **Level IV** | 67th | ~$195,000 - $215,000 | ✅ **YOU ARE HERE** |
+| Wage Level | Percentile | Estimated Annual Salary Range | Hourly Equivalent |
+|------------|------------|------------------------------|-------------------|
+| **Level I** | 17th | $138,000 - $145,000 | ~$66 - $70/hr |
+| **Level II** | 34th | $160,000 - $170,000 | ~$77 - $82/hr |
+| **Level III** | 50th | $180,000 - $190,000 | ~$87 - $91/hr |
+| **Level IV** | 67th | $195,000 - $215,000 | ~$94 - $103/hr |
 
-### Your Wage Level Determination
+> **Note:** These are estimates based on OEWS data. Actual prevailing wages should be verified through the DOL's Online Wage Library or a Prevailing Wage Determination (PWD) request.
 
-| Metric | Value |
-|--------|-------|
-| **Your Base Salary** | $205,000 |
-| **Level IV Threshold** | ~$195,000 - $215,000 |
-| **Your Wage Level** | **LEVEL IV** ✅ |
+### How to Determine Your Wage Level
 
-> **Note:** Bonuses ($50,000/year) are typically not included in prevailing wage calculations for H-1B purposes. However, your base salary of $205,000 alone clearly qualifies you for Level IV.
+1. **Find your offered base salary** (bonuses typically not included)
+2. **Match to the table above**
+3. **Your wage level determines your selection weight**
+
+#### Quick Reference by Salary
+
+| Your Base Salary | Likely Wage Level | Selection Weight |
+|------------------|-------------------|------------------|
+| $130,000 - $145,000 | Level I | 2 tickets |
+| $145,000 - $170,000 | Level II | 4 tickets |
+| $170,000 - $195,000 | Level III | 8 tickets |
+| $195,000+ | **Level IV** | **16 tickets** |
 
 ---
 
-## Selection Probability Analysis
+## Selection Probability Estimates
 
-### Old System (Beneficiary-Centric Random Lottery)
+### Old System (Random Lottery)
 
 - All applicants had equal probability
 - With ~470,000 registrations for ~85,000 slots
-- **Your probability: ~18%**
+- **Everyone's probability: ~18%**
 
-### New Weighted System (Your Advantage)
+### New Weighted System
 
 Assuming typical wage level distribution among H-1B registrants:
 
-| Wage Level | Est. % of Applicants | Weight | Weighted Share |
-|------------|---------------------|--------|----------------|
-| Level I | 35% | 2 | 70 units |
-| Level II | 30% | 4 | 120 units |
-| Level III | 20% | 8 | 160 units |
-| Level IV | 15% | 16 | 240 units |
-| **Total** | 100% | — | **590 units** |
+| Wage Level | Est. % of Applicants | Weight | Weighted Share | Est. Selection Rate |
+|------------|---------------------|--------|----------------|---------------------|
+| Level I | 35% | 2 | 70 units (12%) | ~6% |
+| Level II | 30% | 4 | 120 units (20%) | ~12% |
+| Level III | 20% | 8 | 160 units (27%) | ~25% |
+| Level IV | 15% | 16 | 240 units (41%) | **~45-55%** |
 
-### Your Probability Calculation
+### Probability by Wage Level
 
-- Level IV applicants represent 15% of applicants but control 40.7% of selection weight (240/590)
-- For 85,000 selection slots:
-  - Level IV pool receives: ~34,600 selections
-  - Level IV applicants: ~70,500 (15% of 470,000)
-  
-**Estimated Selection Probability: ~45-55%**
-
-### Comparison
-
-| System | Your Probability | Improvement |
-|--------|------------------|-------------|
-| Old Random Lottery | ~18% | Baseline |
-| New Weighted System | **~45-55%** | **2.5× to 3× better** |
+| Wage Level | Old System | New System | Change |
+|------------|------------|------------|--------|
+| Level I | ~18% | ~6% | ⬇️ 3× worse |
+| Level II | ~18% | ~12% | ⬇️ 1.5× worse |
+| Level III | ~18% | ~25% | ⬆️ 1.4× better |
+| Level IV | ~18% | **~45-55%** | ⬆️ **2.5-3× better** |
 
 ---
 
-## Why SOC 17-2061 Is the Right Choice
+## Why SOC 17-2061 (Computer Hardware Engineers)?
 
-### Job Alignment
+### Typical Job Titles That Qualify
 
-The Computer Hardware Engineers (17-2061) classification is ideal for your role:
+- Hardware Design Engineer
+- RTL Design Engineer
+- Digital Design Engineer
+- ASIC/FPGA Design Engineer
+- GPU/CPU Hardware Engineer
+- Computer Architect
+- Hardware Verification Engineer
+- Chip Design Engineer
+- SoC Design Engineer
 
-| Your Responsibilities | SOC 17-2061 Duties |
-|-----------------------|-------------------|
-| GPU Architecture Design | ✅ Computer hardware architecture |
-| RTL Design & Verification | ✅ Digital circuit design |
-| Power-Efficient System Design | ✅ Hardware optimization |
-| Computer Architecture | ✅ Processor/system design |
+### Key Job Duties for 17-2061
 
-### Comparison with Other SOC Codes
+- Computer hardware architecture design
+- Digital circuit and RTL design
+- ASIC/FPGA/GPU/CPU development
+- Hardware verification and validation
+- Power-efficient system design
+- Processor and memory system design
 
-| SOC Code | Title | National Median | Fit for Your Role |
-|----------|-------|-----------------|-------------------|
-| **17-2061** | Computer Hardware Engineers | $155,020 | **Excellent** ✅ |
-| 17-2071 | Electrical Engineers | $103,990 | Moderate |
-| 17-2072 | Electronics Engineers (except Computer) | $107,410 | Less ideal |
+### Comparison with Other Engineering SOC Codes
 
-### Benefits of 17-2061
+| SOC Code | Title | National Median | Best For |
+|----------|-------|-----------------|----------|
+| **17-2061** | Computer Hardware Engineers | $155,020 | Chip design, RTL, GPU/CPU architecture |
+| 17-2071 | Electrical Engineers | $103,990 | Power systems, circuits, analog |
+| 17-2072 | Electronics Engineers (except Computer) | $107,410 | Consumer electronics, RF, embedded |
 
-1. **Accurate Job Match**: Your work on GPU architecture and RTL design maps directly to this classification
-2. **Lower RFE Risk**: Accurate SOC code reduces Request for Evidence probability
-3. **Industry Standard**: Major semiconductor/GPU companies use 17-2061 for similar roles
-4. **Strong Documentation**: Easier to demonstrate specialty occupation requirement
+### Benefits of Using 17-2061
+
+1. **Higher Wage Thresholds**: Reflects true market value for hardware engineers
+2. **Accurate Classification**: Reduces RFE (Request for Evidence) risk
+3. **Industry Standard**: Major semiconductor companies use this code
+4. **Strong Documentation**: Easier to demonstrate specialty occupation
 
 ---
 
-## Additional Advantages
+## U.S. Master's Degree Advantage
 
-### U.S. Master's Degree Exemption
+If you have a **U.S. Master's degree or higher**, you qualify for the Advanced Degree Exemption:
 
-Your MS from UW Madison qualifies you for the **Advanced Degree Exemption**:
+### Two-Lottery Advantage
 
 1. **First Lottery**: Regular cap (65,000 slots) - all registrations
-2. **Second Lottery**: If not selected, you're entered into the U.S. Master's pool (additional 20,000 slots)
+2. **Second Lottery**: If not selected, entered into U.S. Master's pool (additional 20,000 slots)
 
-This provides a **backup selection opportunity** not available to those with only bachelor's degrees.
-
-### Strong Employer Profile
-
-Large tech companies typically have:
-- Experienced immigration legal teams
-- Track record of successful H-1B petitions
-- Resources for thorough documentation
-- Lower denial rates
+This provides an additional selection opportunity not available to those with only bachelor's degrees.
 
 ---
 
-## Risk Assessment
-
-| Risk Factor | Your Status | Notes |
-|-------------|-------------|-------|
-| **Wage Level Qualification** | ✅ Low Risk | $205K clearly exceeds Level IV threshold |
-| **SOC Code Accuracy** | ✅ Low Risk | 17-2061 is excellent match |
-| **Specialty Occupation** | ✅ Low Risk | MS degree + specialized role |
-| **Employer Compliance** | ✅ Low Risk | Large tech company |
-| **Cap Registration** | ⚠️ Moderate | Dependent on employer filing timely |
-| **USCIS Processing** | ⚠️ Moderate | Standard processing delays possible |
-
----
-
-## Timeline for FY2027 H-1B
+## FY2027 H-1B Timeline
 
 | Timeframe | Action Item |
 |-----------|-------------|
 | **Jan-Feb 2026** | Employer prepares registration; confirm job details, salary, SOC code |
-| **March 2026** | H-1B electronic registration window opens |
-| **Late March 2026** | Registration closes; lottery conducted |
+| **March 2026** | H-1B electronic registration window opens (~2-3 weeks) |
+| **Late March 2026** | Registration closes; weighted lottery conducted |
 | **March-April 2026** | Lottery results announced |
 | **April 1, 2026** | Earliest filing date for selected registrations |
-| **April-June 2026** | Employer files H-1B petition |
+| **April-June 2026** | Employer files H-1B petition with USCIS |
 | **Oct 1, 2026** | H-1B status effective date (if approved) |
 
-### Your OPT Timeline
+### For F-1 OPT Holders
 
-| Date | Event |
-|------|-------|
-| Feb 12, 2026 | EAD expires |
-| Oct 1, 2026 | H-1B start date (if selected & approved) |
-
-> ⚠️ **Cap-Gap Protection**: If your H-1B is selected and petition is filed timely, your F-1 status and work authorization automatically extend until Oct 1, 2026 (or until petition decision if earlier).
+If your H-1B is selected and petition is filed timely, you receive **cap-gap protection**:
+- F-1 status and work authorization automatically extend
+- Extension lasts until Oct 1 or petition decision (whichever is earlier)
 
 ---
 
 ## Action Items
 
-### For You
+### For Applicants
 
-1. **Confirm with Employer**: Ensure they will file for FY2027 lottery (March 2026)
-2. **Verify SOC Code**: Request that they use 17-2061 (Computer Hardware Engineers)
-3. **Document Your Role**: Prepare detailed job description emphasizing:
-   - Computer hardware architecture design
-   - RTL design and verification
-   - GPU microarchitecture development
-   - Power-efficient system optimization
-4. **Confirm Salary**: Ensure offer letter reflects $205,000 base salary
+1. **Know Your Wage Level**: Determine which level your offered salary falls into
+2. **Confirm SOC Code**: Ensure employer uses appropriate SOC code (17-2061 for hardware roles)
+3. **Document Your Role**: Prepare detailed job description matching SOC code duties
+4. **Negotiate Salary**: If close to a threshold, consider negotiating to reach the next level
 
-### For Your Employer/Immigration Team
+### For Employers/Immigration Teams
 
-1. **Prevailing Wage Determination**: File PWD request with DOL (if not already done)
+1. **Prevailing Wage Determination**: File PWD request with DOL if needed
 2. **LCA Preparation**: Prepare Labor Condition Application with correct SOC code
-3. **Registration Preparation**: Prepare for March 2026 registration window
+3. **Registration Preparation**: Prepare for March registration window
 4. **Supporting Documentation**: Gather degree evaluations, prior approvals, etc.
 
 ---
 
-## Bottom Line
+## Salary Negotiation Strategy
 
-| Metric | Your Assessment |
-|--------|-----------------|
-| **Wage Level** | Level IV (Highest) ✅ |
-| **Selection Weight** | 16× baseline ✅ |
-| **Estimated Lottery Probability** | **45-55%** |
-| **Improvement vs. Old System** | **2.5× to 3× better odds** |
-| **U.S. Master's Backup** | Yes ✅ |
-| **SOC Code Fit** | Excellent (17-2061) ✅ |
-| **Overall Outlook** | **Highly Favorable** ⭐ |
+If your offered salary is close to a wage level threshold, consider negotiating:
+
+| Current Offer | Gap to Next Level | Potential Benefit |
+|---------------|-------------------|-------------------|
+| $140,000 | ~$20,000 to Level II | 2× selection probability |
+| $165,000 | ~$25,000 to Level III | 2× selection probability |
+| $185,000 | ~$10,000 to Level IV | 2× selection probability |
+
+**Even a small salary increase near a threshold can significantly improve lottery odds.**
+
+---
+
+## Risk Factors
+
+| Risk Factor | Mitigation |
+|-------------|------------|
+| **Wage Level Misclassification** | Verify with current DOL prevailing wage data |
+| **SOC Code Mismatch** | Ensure job duties align with selected SOC code |
+| **Employer Non-Compliance** | Work with reputable companies with immigration experience |
+| **Late Registration** | Confirm employer will register within the window |
+| **USCIS Processing Delays** | Consider premium processing if available |
+
+---
+
+## Key Takeaways
+
+| Factor | Impact |
+|--------|--------|
+| **Level IV Salary ($195K+)** | Best odds (~45-55% selection rate) |
+| **Level III Salary ($180K-195K)** | Good odds (~25% selection rate) |
+| **Level II Salary ($160K-180K)** | Below average (~12% selection rate) |
+| **Level I Salary (<$160K)** | Significantly reduced (~6% selection rate) |
+| **U.S. Master's Degree** | Second lottery opportunity if not initially selected |
+| **Correct SOC Code (17-2061)** | Reduces RFE risk, accurate classification |
+
+---
+
+## Additional Resources
+
+- **DOL Online Wage Library**: [flcdatacenter.com](https://www.flcdatacenter.com/)
+- **USCIS H-1B Information**: [uscis.gov/h-1b](https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations)
+- **O*NET SOC Code Details**: [onetonline.org](https://www.onetonline.org/link/summary/17-2061.00)
+- **BLS Occupational Outlook**: [bls.gov/ooh](https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm)
 
 ---
 
 ## Disclaimer
 
-This analysis is provided for informational purposes only and does not constitute legal advice. Immigration laws and regulations are subject to change. The probability estimates are based on assumptions about applicant distribution and may vary. Consult with a licensed immigration attorney for advice specific to your situation.
+This analysis is provided for informational purposes only and does not constitute legal advice. Immigration laws and regulations are subject to change. The probability estimates are based on assumptions about applicant distribution and may vary based on actual lottery conditions. Prevailing wage thresholds are estimates and should be verified through official DOL sources. Consult with a licensed immigration attorney for advice specific to your situation.
 
 ---
 
-*Analysis prepared: December 23, 2024*
-
+*Last updated: December 2024*
